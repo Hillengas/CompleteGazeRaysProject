@@ -1,0 +1,1 @@
+In StimuliApp den Pfad für das Öffnen von Unity anpassen. Hier hard-coded! (Zeile 28)
